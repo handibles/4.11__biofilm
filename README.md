@@ -5,7 +5,7 @@ Nevertheless, an updated version would be useful. Notwithstanding the efforts of
  * obtain a fresh and updated ubuntu install
  * progammatically obtain the software that you actually *need* for the course in question.
 
-That is what we do here.
+That is what we do here with ```biofilm__tourist.sh```.
 
 
 ### 1. get ubuntu
