@@ -35,7 +35,7 @@
 
 		
 	
-	## non-func
+	## non-func tracker for install status, replace with exit codes
 	#	for i in $LIST_OF_APPS ;
 	#		j=xargs $i
 	#		echo $j ; 
